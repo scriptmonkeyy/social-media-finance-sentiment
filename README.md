@@ -3,3 +3,4 @@
 ## Getting Started with Twitter
 ## StockTwit is cool.
 ## Search Engine, google trends.
+## Similarity Measures.
